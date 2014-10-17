@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tul:home|Door43 (tul)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tul|d43-tul repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tul/archive/master.zip|d43-tul.zip]]
+
+**Recent Changes**
+{{changes>ns = tul}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tul|Ethnologue data]]
+
